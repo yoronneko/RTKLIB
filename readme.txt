@@ -1,3 +1,5 @@
+** Modifications made by yoronneko are for rtklib_2.4.3 branch **
+
 --------------------------------------------------------------------------------
 
            RTKLIB: An Open Source Program Package for GNSS Positioning
